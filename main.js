@@ -14,8 +14,8 @@ leftWristX = 0;
 leftWristY = 0;
 function preload()
 {
-	song1 = loadSound("jurassic_park.mp3");
-	song2 = loadSound("hey_soul_sister.mp3");
+	song1 = loadSound("nfl.mp3");
+	song2 = loadSound("hstar_wars.mp3");
 }
 
 function setup() {
